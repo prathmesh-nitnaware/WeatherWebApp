@@ -20,7 +20,7 @@
 <h2>🌐 Live Demo</h2>
 
 <p>
-  <a href="https://your-github-username.github.io/Weather/](https://prathmesh-nitnaware.github.io/WeatherWebApp/" target="_blank">
+  <a href="https://prathmesh-nitnaware.github.io/WeatherWebApp/" target="_blank">
     <b>View on GitHub Pages</b>
   </a>
 </p>
